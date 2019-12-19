@@ -4,3 +4,6 @@
 [submodule "OVERPASS"]
 	path = OVERPASS
 	url = https://github.com/MichaelENGs/argus.git
+[submodule "WeakLink.AI"]
+	path = WeakLink.AI
+	url = https://github.com/OxbigDev/HackPrinceton.git
