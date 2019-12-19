@@ -1,0 +1,3 @@
+[submodule "ARGUS"]
+	path = ARGUS
+	url = https://github.com/karstenchu/argus.git
