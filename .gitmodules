@@ -1,6 +1,6 @@
 [submodule "ARGUS"]
 	path = ARGUS
-	url = https://github.com/karstenchu/argus.git
+	url = https://github.com/MichaelENGs/argus.git
 [submodule "OVERPASS"]
 	path = OVERPASS
 	url = https://github.com/MichaelENGs/overpass.git
