@@ -1,6 +1,7 @@
 [submodule "ARGUS"]
 	path = ARGUS
 	url = https://github.com/MichaelENGs/argus.git
+	branch = master
 [submodule "OVERPASS"]
 	path = OVERPASS
 	url = https://github.com/MichaelENGs/overpass.git
