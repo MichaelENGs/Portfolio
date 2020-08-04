@@ -1,8 +1,14 @@
 # Project History
 Source code for existing and completed projects
 
-### Bespin
+### (NDA) Bespin
 Cloud cover detector
+
+### (NDA) Oakland
+Collection simulator
+
+### (NDA/TS) SP Detector
+Lead the Delivery of an SP Detector
 
 ### SKYNET
 Custom Neural Network engine
@@ -10,7 +16,7 @@ Custom Neural Network engine
 ### ARGUS
 Post Disaster Needs Assesment Automation(PDNAA)
 
-### Overpass
+### (NDA) Overpass
 Tool for scanning open street map and preforming some analysis on the data.
 
 ### Game Mode
