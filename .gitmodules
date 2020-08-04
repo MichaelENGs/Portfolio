@@ -3,7 +3,7 @@
 	url = https://github.com/karstenchu/argus.git
 [submodule "OVERPASS"]
 	path = OVERPASS
-	url = https://github.com/MichaelENGs/argus.git
+	url = https://github.com/MichaelENGs/overpass.git
 [submodule "WeakLink.AI"]
 	path = WeakLink.AI
 	url = https://github.com/OxbigDev/HackPrinceton.git
