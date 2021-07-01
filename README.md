@@ -1,6 +1,6 @@
 # project_history
 ## Source code for existing and completed projects
-### Note many of the work listed here is covered under NDA by employer, and clients
+#### Note: much of the work listed is covered under NDA by employer, and clients
 
 # SKYNET/ARGUS (Python3/Python2)
 Custom Neural Network engine
