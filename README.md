@@ -2,6 +2,10 @@
 ## Source code for existing and completed projects
 #### Note: much of the work listed is covered under NDA by employer, and clients
 
+# Rapid Resilient Command & Control (R2C2) Acme ground system (Multiple languages)
+Premier common ground solution for USSF missions
+Large scale micro-service based containerized cloud solution consisting of several web applications. Leveraged a DevSecOps CI/CD pipeline to deliver capability to operational users at the tactical unit.
+
 # SKYNET/ARGUS (Python3/Python2)
 Custom Neural Network engine
 Post Disaster Needs Assesment Automation(PDNAA)
